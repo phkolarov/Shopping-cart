@@ -12,4 +12,10 @@ namespace models;
 class LoginViewModel
 {
 
+
+
+
+
+
+
 }

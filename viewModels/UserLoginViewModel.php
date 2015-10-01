@@ -13,10 +13,19 @@ class UserLoginViewModel
 {
 
 
-    public  function testVar(){
+    public  function login(){
 
         return 'TESTER!';
     }
 
 
+    public  function other(){
+
+        return "Other";
+    }
+
+    public function testVar(){
+
+        return 'aba lala';
+    }
 }
