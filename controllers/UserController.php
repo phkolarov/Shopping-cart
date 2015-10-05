@@ -17,4 +17,9 @@ class UserController
         echo "I'm user controller";
 
     }
+
+    public  function index($params){
+
+        var_dump($params);
+    }
 }

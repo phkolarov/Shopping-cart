@@ -1,7 +1,4 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Phill
- * Date: 10/1/2015
- * Time: 10:02 PM
- */
+
+<h1>HHHH</h1>
+
+<?= var_dump($model); ?>

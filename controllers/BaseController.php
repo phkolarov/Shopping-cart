@@ -9,7 +9,18 @@
 namespace controllers;
 
 
-class BaseController
+
+abstract class BaseController
 {
 
+
+    public function __construct(){
+
+        $this->onInit();
+
+    }
+
+
+        protected function onInit(){
+        }
 }

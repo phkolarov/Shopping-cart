@@ -6,7 +6,7 @@
  * Time: 10:39 PM
  */
 
-namespace models;
+namespace viewModels;
 
 
 class LoginViewModel

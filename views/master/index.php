@@ -1,24 +1,2 @@
-<?php
-namespace views;
-
-
-class MasterViewModel{
-
-
-
-
-    public function __construct(){
-
-
-
-    }
-
-
-
-
-
-
-
-
-
-}
+<h1><?= $model->testVar() ?></h1>
+ggg

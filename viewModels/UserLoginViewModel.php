@@ -6,11 +6,12 @@
  * Time: 9:39 PM
  */
 
-namespace models;
+namespace viewModels;
 
 
 class UserLoginViewModel
 {
+
 
 
     public  function login(){

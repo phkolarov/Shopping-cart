@@ -12,4 +12,10 @@ namespace controllers;
 class errorController
 {
 
+    public function __construct(){
+
+        echo "Error this route not exist!";
+    }
+
+
 }
